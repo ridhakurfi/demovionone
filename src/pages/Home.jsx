@@ -13,22 +13,22 @@ const equipments = [
   {
     name: "Excavator CAT 320",
     price: "Rp 3.500.000 / day",
-    image: "https://images.pexels.com/photos/5125783/pexels-photo-5125783.jpeg",
+    image: "https://res.cloudinary.com/ducjx48tv/image/upload/v1783578927/demovion1/escavator_qjjkcf.jpg",
   },
   {
     name: "Bulldozer D85",
     price: "Rp 5.200.000 / day",
-    image: "https://images.pexels.com/photos/28753112/pexels-photo-28753112.jpeg",
+    image: "https://res.cloudinary.com/ducjx48tv/image/upload/v1783578927/demovion1/bulldozer_j5decl.jpg",
   },
   {
     name: "Wheel Loader",
     price: "Rp 4.100.000 / day",
-    image: "https://images.pexels.com/photos/33201219/pexels-photo-33201219.jpeg",
+    image: "https://res.cloudinary.com/ducjx48tv/image/upload/v1783578928/demovion1/wheel_imkdjd.jpg",
   },
   {
     name: "Motor Grader",
     price: "Rp 4.800.000 / day",
-    image: "https://images.pexels.com/photos/10643009/pexels-photo-10643009.jpeg",
+    image: "https://res.cloudinary.com/ducjx48tv/image/upload/v1783578927/demovion1/motorgrader_xatavn.jpg",
   },
 ];
 
