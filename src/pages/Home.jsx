@@ -17,7 +17,7 @@ const equipments = [
   },
   {
     name: "Bulldozer D85",
-    price: "Rp 5.500.000 / day",
+    price: "Rp 5.300.000 / day",
     image: "https://res.cloudinary.com/ducjx48tv/image/upload/v1783578927/demovion1/bulldozer_j5decl.jpg",
   },
   {
