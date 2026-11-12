@@ -22,7 +22,7 @@ const equipments = [
   },
   {
     name: "Wheel Loader",
-    price: "Rp 4.100.000 / day",
+    price: "Rp 4.000.000 / day",
     image: "https://res.cloudinary.com/ducjx48tv/image/upload/v1783578928/demovion1/wheel_imkdjd.jpg",
   },
   {
